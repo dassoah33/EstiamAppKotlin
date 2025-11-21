@@ -124,8 +124,8 @@ app/
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/[votre-username]/EstiamApp.git
-cd EstiamApp
+git clone https://github.com/dassoah33/EstiamAppKotlin.git
+cd EstiamAppKotlin
 ```
 
 2. **Configurer Firebase**
@@ -262,7 +262,7 @@ L'application utilise un système de logs structuré avec tags :
 ## 👨‍💻 Auteur
 
 **[Votre Nom]**
-- GitHub: [@votre-username](https://github.com/dassoah33)
+- GitHub: [@dassoah33](https://github.com/dassoah33)
 - Email: contact@dassoah.com
 
 ---
