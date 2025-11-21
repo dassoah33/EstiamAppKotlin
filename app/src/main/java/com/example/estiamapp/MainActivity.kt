@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         enableEdgeToEdge()
         setContent {
-            EstiamAppTheme {
+            EstiamAppTheme (darkTheme = false) {
                 MainScreen()
             }
         }
