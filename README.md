@@ -171,20 +171,6 @@ Tous les tests doivent passer ✅
 
 ---
 
-## 📸 Screenshots
-
-### Mode Clair
-- Login avec validation en temps réel
-- Liste de produits avec pull-to-refresh
-- Bottom Navigation colorée
-
-### Mode Sombre
-- Thème vibrant bleu/violet/turquoise
-- Cards avec couleurs contrastées
-- Status bar adaptative
-
----
-
 ## 🎨 Thème Personnalisé
 
 L'application utilise un thème **Ocean** moderne avec :
